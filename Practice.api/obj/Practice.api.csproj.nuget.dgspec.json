@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hp\\Documents\\Practice\\Practice.api\\Practice.api.csproj": {}
+    "C:\\Users\\hp\\Documents\\Practice\\practice.api\\Practice.api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hp\\Documents\\Practice\\Practice.api\\Practice.api.csproj": {
+    "C:\\Users\\hp\\Documents\\Practice\\practice.api\\Practice.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hp\\Documents\\Practice\\Practice.api\\Practice.api.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\Practice\\practice.api\\Practice.api.csproj",
         "projectName": "Practice.api",
-        "projectPath": "c:\\Users\\hp\\Documents\\Practice\\Practice.api\\Practice.api.csproj",
+        "projectPath": "C:\\Users\\hp\\Documents\\Practice\\practice.api\\Practice.api.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hp\\Documents\\Practice\\Practice.api\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\Practice\\practice.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

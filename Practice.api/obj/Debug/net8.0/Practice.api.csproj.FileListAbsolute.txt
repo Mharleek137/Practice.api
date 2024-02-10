@@ -23,3 +23,9 @@ C:\Users\hp\Documents\Practice\practice.api\obj\Debug\net8.0\refint\Practice.api
 C:\Users\hp\Documents\Practice\practice.api\obj\Debug\net8.0\Practice.api.pdb
 C:\Users\hp\Documents\Practice\practice.api\obj\Debug\net8.0\Practice.api.genruntimeconfig.cache
 C:\Users\hp\Documents\Practice\practice.api\obj\Debug\net8.0\ref\Practice.api.dll
+C:\Users\hp\Documents\Practice\practice.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hp\Documents\Practice\practice.api\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\hp\Documents\Practice\practice.api\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\hp\Documents\Practice\practice.api\obj\Debug\net8.0\Practice.api.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Practice\practice.api\obj\Debug\net8.0\Practice.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Documents\Practice\practice.api\obj\Debug\net8.0\Practice.api.csproj.CopyComplete

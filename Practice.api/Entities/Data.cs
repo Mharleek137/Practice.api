@@ -11,6 +11,6 @@ public class Data
     [StringLength(50)]
     public required String Name { get; set; }
     [Required]
-    [StringLength(7)]
+    [StringLength(6)]
     public required string Gender { get; set; }
 }
